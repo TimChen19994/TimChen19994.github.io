@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18386257-098e-4446-b6ba-711b54622b81" name="Changes" comment="Test projects.html">
+    <list default="true" id="18386257-098e-4446-b6ba-711b54622b81" name="Changes" comment="Change in header.html">
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689118943607</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Change in header.html">
+      <created>1689119187417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689119187417</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test projects.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test projects.html" />
+    <MESSAGE value="Change in header.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change in header.html" />
   </component>
 </project>
