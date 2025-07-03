@@ -1,6 +1,6 @@
 # Site settings
 title: Juney's Portfolio
-description: Machine Learning Engineer/Data Scientist
+description: Data Scientist
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -8,7 +8,7 @@ description: Machine Learning Engineer/Data Scientist
 username: Timothy Chen
 user_description: Experienced Data Scientist with 4 years of expertise in developing data-driven solutions and predictive models. Proficient in leveraging SQL and Python for comprehensive data analysis, optimizing queries to extract, transform, and derive actionable insights from complex datasets. Skilled in advanced statistical analysis and machine learning techniques, contributing to enhanced business decision-making through data-driven strategies.
 
-user_title: Machine Learning Engineer/Data Scientist
+user_title: Data Scientist
 email: TimChen19994@gmail.com
 #twitter_username: lorem_ipsum
 github_username:  TimChen19994
